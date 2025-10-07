@@ -4,7 +4,7 @@
 |Параметр|Тип|Описание|
 |-|--------|---|
 |product_id|string or number|ID товара в системе OpenCart|
-|quantity| |string or number|Количество товара для добавления|
+|quantity| string or number|Количество товара для добавления|
 |option_id	|string or number|ID опции товара (например, 382 для текстового поля)|
 |option_value| string|Значение опции (текст комментария, выбранный вариант и т.д.)|
 
